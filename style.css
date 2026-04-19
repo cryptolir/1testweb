@@ -6,8 +6,8 @@ body {
   min-height: 100vh;
   display: grid;
   place-items: center;
-  background: canvas;
-  color: canvastext;
+  background: #2d6a2d;
+  color: #ffffff;
 }
 main { max-width: 42rem; padding: 2rem; }
 h1 { font-size: clamp(1.75rem, 5vw, 2.75rem); margin: 0 0 .5rem; }
